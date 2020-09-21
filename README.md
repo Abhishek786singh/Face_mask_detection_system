@@ -6,4 +6,8 @@ During pandemic COVID-19, WHO has made wearing masks compulsory to protect again
 # In this project we are making an alert system .
 We will build a real-time system to detect whether the person on the webcam is wearing a mask or not. We will train the face mask detector model using Keras and OpenCV.
 In this machine learning project for beginners, we will use Jupyter Notebook for the development.
+
 ![CNN](Images/faceimage_1.jpg)
+
+## CNN
+![CNN](Images/faceimage_2.png)
