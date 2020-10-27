@@ -1,6 +1,6 @@
 ## Dataset-https://drive.google.com/drive/folders/1KzBwQ2WYdYrps2vs5e69cEbKf_Q8eM_Q?usp=sharing
 # Face_mask_detection_system
-Real-Time Face Mask Detector with Python, OpenCV, Keras ,numpy . .
+Real-Time Face Mask Detector with Python, OpenCV, Keras ,numpy .,.
 
 During pandemic COVID-19, WHO has made wearing masks compulsory to protect against this deadly virus. In this project  we will develop a machine learning project – Real-time Face Mask Detector with Python.
 # In this project we are making an alert system .
