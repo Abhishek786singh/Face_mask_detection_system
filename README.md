@@ -23,7 +23,7 @@ In this machine learning project for beginners,we will use Jupyter Notebook for 
 ## PREDICATION
 ![CNN](Images/faceimage_3.jpg)
 
-## SUMMARY...
+## SUMMARY
 
 In this project, we  have developed a deep learning model for face mask detection using Python, Keras, and OpenCV. We developed the face mask detector model for detecting whether person is wearing a mask or not and send a alert to the given e-mail. We have trained the model using Keras with network architecture. Training the model is the first part of this project and testing using webcam using OpenCV is the second part.
 
