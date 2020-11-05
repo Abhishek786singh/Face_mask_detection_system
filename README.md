@@ -9,7 +9,7 @@ In this machine learning project for beginners,we will use Jupyter Notebook for 
 
 ![CNN](Images/faceimage_1.jpg)
 
-# Tools and libraries..
+# Tools and libraries
  + Opencv
  + Convolutional neural network
  + Numpy 
