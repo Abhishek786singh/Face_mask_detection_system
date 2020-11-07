@@ -14,10 +14,10 @@ In this machine learning project for beginners,we will use Jupyter Notebook for 
  + Convolutional neural network
  + Numpy 
  + jupyter notebook
- + Matplotlib 
+ + Matplotlib ...
  
  
-## CNN
+## CNN.
 ![CNN](Images/faceimage_2.jpeg)
 
 ## PREDICATION
