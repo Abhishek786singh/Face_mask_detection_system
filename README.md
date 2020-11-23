@@ -14,8 +14,7 @@ In this machine learning project for beginners,we will use Jupyter Notebook for 
  + Convolutional neural network
  + Numpy 
  + jupyter notebook
- + Matplotlib .
-...
+ + Matplotlib 
 
 
 
