@@ -15,7 +15,6 @@ In this machine learning project for beginners,we will use Jupyter Notebook for 
  + Numpy 
  + jupyter notebook
  + Matplotlib 
-....
 
 
 
